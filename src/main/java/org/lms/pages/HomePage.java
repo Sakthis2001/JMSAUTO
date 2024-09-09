@@ -9,7 +9,12 @@ public class HomePage {
 
     private String baseicon = "//img[@src='/jms/src/assets/GeneralIcons/shortcuts.svg']";
     private String addpubicon="id=add_publisher";
+
+//New change
+    //New Change 1
+=======
 // new change
+
 
 
     public HomePage(Page page) {
